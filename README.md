@@ -13,7 +13,7 @@
 <div align="center">
   <a href="https://linkedin.com/in/halfirzzha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://instagram.com/halfirzzha" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="mailto:halfirzzha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://gitlab.com/halfirzzha"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/></a>
   <a href="https://github.com/halfirzzha" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
 </div>
 
@@ -23,23 +23,34 @@
 
 <h3 align="center">💫 About Me</h3>
 
-<div align="center">
-  <p>🚀 Passionate Full Stack Developer crafting digital experiences</p>
-  <p>💻 Currently building amazing web applications with modern technologies</p>
-  <p>📚 Continuously learning Laravel, Vue.js, and Cloud Architecture</p>
-  <p>☕ Fun fact: Converting coffee into code since [Your Year]</p>
+<div align="left" style="margin-left: 20px;">
+  
+- 🔭 I'm currently working on **Web Development Projects**
+- 🌱 I'm currently learning **Laravel, Vue.js, Django**
+- 👯 I'm looking to collaborate on **Full Stack Projects**
+- 💬 Ask me about **PHP, Laravel, Vue.js, MySQL**
+- ⚡ Fun fact: **I turn caffeine into code**
+- 📫 How to reach me: **halfirzzha@gmail.com**
+
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
 <h3 align="center">🛠️ Technology Stack</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,react,nodejs" /><br>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,aws,figma,vscode,postman" />
+  <h4>Frontend Development</h4>
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap,jquery" /><br>
+  
+  <h4>Backend Development</h4>
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,django,nodejs" /><br>
+  
+  <h4>Database & Tools</h4>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,vscode,postman,nginx" />
 </div>
+
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
